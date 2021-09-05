@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhargava Mummadireddy
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software programming, solution design.
 - 🌱 I’m currently learning HCL/Terraform
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me - A message here or on [LinkedIn](https://www.linkedin.com/in/bhargavkishore/)
