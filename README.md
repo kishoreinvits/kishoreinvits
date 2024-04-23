@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhargava Mummadireddy
-- 👀 I’m interested in Software programming, Solution design
-- 🌱 I’m currently understanding business of my new employer
+- 👀 I’m interested in Machine Learning, Software design and development
+- 🌱 I’m currently scouting for next opportunity
 - 💞️ I’m looking to contribute to opensource projects
 - 📫 How to reach me - A message here or on [LinkedIn](https://www.linkedin.com/in/bhargavamummadireddy/)
 
